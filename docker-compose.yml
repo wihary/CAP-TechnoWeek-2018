@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  cap-technoweek-2018:
+    image: cap-technoweek-2018
+    build: .
+    ports:
+      - 5000:5000
