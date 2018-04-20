@@ -12653,11 +12653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wihary\\OneDrive\\Technos Week\\demo-wha\\CAP-TechnoWeek-2018\\Technoweek.api\\Technoweek.api.csproj",
+      "projectUniqueName": "C:\\Users\\wihary\\OneDrive\\Technos Week\\demo-wha\\CAP-TechnoWeek-2018\\Technoweek.api.csproj",
       "projectName": "Technoweek.api",
-      "projectPath": "C:\\Users\\wihary\\OneDrive\\Technos Week\\demo-wha\\CAP-TechnoWeek-2018\\Technoweek.api\\Technoweek.api.csproj",
+      "projectPath": "C:\\Users\\wihary\\OneDrive\\Technos Week\\demo-wha\\CAP-TechnoWeek-2018\\Technoweek.api.csproj",
       "packagesPath": "C:\\Users\\wihary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wihary\\OneDrive\\Technos Week\\demo-wha\\CAP-TechnoWeek-2018\\Technoweek.api\\obj\\",
+      "outputPath": "C:\\Users\\wihary\\OneDrive\\Technos Week\\demo-wha\\CAP-TechnoWeek-2018\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

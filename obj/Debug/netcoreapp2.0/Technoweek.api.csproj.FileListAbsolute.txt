@@ -18,3 +18,13 @@ C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\Technoweek.ap
 C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\Technoweek.api\bin\Debug\netcoreapp2.0\Technoweek.api.runtimeconfig.dev.json
 C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\Technoweek.api\bin\Debug\netcoreapp2.0\Technoweek.api.dll
 C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\Technoweek.api\bin\Debug\netcoreapp2.0\Technoweek.api.pdb
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\bin\Debug\netcoreapp2.0\Technoweek.api.deps.json
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\bin\Debug\netcoreapp2.0\Technoweek.api.runtimeconfig.json
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\bin\Debug\netcoreapp2.0\Technoweek.api.runtimeconfig.dev.json
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\bin\Debug\netcoreapp2.0\Technoweek.api.dll
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\bin\Debug\netcoreapp2.0\Technoweek.api.pdb
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\obj\Debug\netcoreapp2.0\Technoweek.api.csproj.CoreCompileInputs.cache
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\obj\Debug\netcoreapp2.0\Technoweek.api.AssemblyInfoInputs.cache
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\obj\Debug\netcoreapp2.0\Technoweek.api.AssemblyInfo.cs
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\obj\Debug\netcoreapp2.0\Technoweek.api.dll
+C:\Users\wihary\OneDrive\Technos Week\demo-wha\CAP-TechnoWeek-2018\obj\Debug\netcoreapp2.0\Technoweek.api.pdb
